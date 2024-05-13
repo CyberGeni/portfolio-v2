@@ -33,6 +33,15 @@ export default {
         return {
             projects: [
                 {
+                    image: '/src/assets/images/blazebrain.png',
+                    title: 'Blazebrain',
+                    description: "Portfolio website for a mobile engineer with experience in software engineering.",
+                    liveLink: 'https://blazebrain.me',
+                    projectInfo: '',
+                    tag: 'landing-page',
+                    id: 1
+                },
+                {
                     image: '/src/assets/images/btchr.png',
                     title: 'btchr',
                     description: " Say good bye to long URLs and hello to a simpler, sleeker way to shorten your links.",
